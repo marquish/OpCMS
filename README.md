@@ -1,9 +1,10 @@
 # OpCMS
-# OpCMS is a open source CMS solution that integrates 
-# open source plugin framework https://msdn.microsoft.com/en-us/library/ms972962.aspx
-# to create single platform for multiple web hosting solutions
-# with same architectural properties of https://docs.microsoft.com/en-us/dotnet/
-# and supporting most commonly used client side bootstrap.
+# OpCMS is a open source CMS solution 
+That integrates 
+ 1. Open source plugin framework https://msdn.microsoft.com/en-us/library/ms972962.aspx
+ 2. to create single platform for multiple web hosting solutions
+ 3. with same architectural properties of https://docs.microsoft.com/en-us/dotnet/
+ 4. and supporting most commonly used client side bootstrap.
 
 The folder Structure Proposed
 
